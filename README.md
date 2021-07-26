@@ -51,5 +51,6 @@ package.json
     "url-loader": "^4.1.1",
     "webpack": "^5.11.1",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "3.7.1"
+    "webpack-dev-server": "3.7.1",
+    "json-server": "^0.16.3",
 ```
