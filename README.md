@@ -1,5 +1,5 @@
 # base-app-react
-A basic react app containing bunch of pre-configurated libraries and stuff to easily start your own app with.
+A basic react app containing bunch of pre-configured libraries and stuff to easily start your own app with.
 
 package.json
 ```bash
