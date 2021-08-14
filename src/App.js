@@ -8,11 +8,14 @@ import Routes from './routes';
 import { Container } from 'react-bootstrap';
 import GlobalStyle from './styles/global';
 
+import Header from './assets/components/Header';
+
 function App() {
   return (
     <>
       <BrowserRouter>
         <ScrollToTop>
+          <Header/>
           <Container fluid="xl" className="main-container">
             <Routes />
             <GlobalStyle />
